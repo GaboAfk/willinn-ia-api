@@ -87,14 +87,14 @@ streamlit run streamlit_app.py
 ```
 
 3. Abre tu navegador y ve a `http://localhost:8501`
-4. Carga un PDF o utiliza el PDF por defecto (Mi CV)
+4. Carga un PDF o utiliza el PDF por defecto
 5. Haz preguntas sobre el contenido del documento
 
 ## Estructura del proyecto
 
 - `streamlit_app.py`: Aplicación frontend de Streamlit
 - `app.py`: Servidor backend de Flask
-- `documents/`: Directorio para almacenar PDFs (incluye un CV por defecto)
+- `documents/`: Directorio para almacenar PDFs (incluye mi CV por defecto)
 
 ## Autor
 Gabriel - [GaboAfk](https://github.com/GaboAfk)
