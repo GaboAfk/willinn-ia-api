@@ -37,8 +37,7 @@ Willinn IA es una API para la prueba técnica de Trainee de Willinn, implementa 
 En Linux usa el siguiente comando.
 
 ```bash
-  curl -fsSL https://ollama.com/install.sh | sh
-  ollama run llama2
+  curl -fsSL https://ollama.com/install.sh | sh ollama run llama2
 ```
 
 Ahora puedes probar el modelo Llama2.
