@@ -28,7 +28,7 @@ Willinn IA es una API para la prueba técnica de Trainee de Willinn, implementa 
 
 ## Requisitos de Hardware
 
-**RAM:** RAM > 4 GB
+**RAM:** RAM > 8 GB
 
 **CPU:** RTX 1660, 2060, AMD 5700xt, RTX 3050, RTX 3060, TX 3070
 
